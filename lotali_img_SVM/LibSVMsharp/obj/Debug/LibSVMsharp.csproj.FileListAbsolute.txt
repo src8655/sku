@@ -1,0 +1,16 @@
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\libsvm_x64.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.pdb
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\bin\Debug\libsvm_x64.dll
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\src86\Desktop\lotali_img_SVM\LibSVMsharp\obj\Debug\LibSVMsharp.pdb

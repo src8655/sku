@@ -1,0 +1,57 @@
+C:\Users\src86\Desktop\lotali_img\lotali_img\bin\Debug\lotali_img.exe.config
+C:\Users\src86\Desktop\lotali_img\lotali_img\bin\Debug\lotali_img.exe
+C:\Users\src86\Desktop\lotali_img\lotali_img\bin\Debug\lotali_img.pdb
+C:\Users\src86\Desktop\lotali_img\lotali_img\obj\Debug\lotali_img.csprojResolveAssemblyReference.cache
+C:\Users\src86\Desktop\lotali_img\lotali_img\obj\Debug\lotali_img.Form1.resources
+C:\Users\src86\Desktop\lotali_img\lotali_img\obj\Debug\lotali_img.Properties.Resources.resources
+C:\Users\src86\Desktop\lotali_img\lotali_img\obj\Debug\lotali_img.csproj.GenerateResource.Cache
+C:\Users\src86\Desktop\lotali_img\lotali_img\obj\Debug\lotali_img.exe
+C:\Users\src86\Desktop\lotali_img\lotali_img\obj\Debug\lotali_img.pdb
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\lotali_img.exe.config
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\lotali_img.exe
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\lotali_img.pdb
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\obj\Debug\lotali_img.csprojResolveAssemblyReference.cache
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\obj\Debug\lotali_img.Form1.resources
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\obj\Debug\lotali_img.Properties.Resources.resources
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\obj\Debug\lotali_img.csproj.GenerateResource.Cache
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\obj\Debug\lotali_img.exe
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\obj\Debug\lotali_img.pdb
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.dll.config
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.dll
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.MachineLearning.dll
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.Math.Core.dll
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.Math.dll
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.Statistics.dll
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.xml
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.MachineLearning.xml
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.Math.xml
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.Math.Core.xml
+C:\Users\src86\Desktop\lotali_img - 복사본\lotali_img\bin\Debug\Accord.Statistics.xml
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\Accord.dll.config
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\lotali_img.exe.config
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\lotali_img.exe
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\lotali_img.pdb
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\obj\Debug\lotali_img.csprojResolveAssemblyReference.cache
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\obj\Debug\lotali_img.Form1.resources
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\obj\Debug\lotali_img.Properties.Resources.resources
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\obj\Debug\lotali_img.csproj.GenerateResource.Cache
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\obj\Debug\lotali_img.exe
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\obj\Debug\lotali_img.pdb
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\LibSVMsharp.dll
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\LibSVMsharp.pdb
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\libsvm.dll
+C:\Users\src86\Desktop\lotali_img_SVM\lotali_img\bin\Debug\libsvm_x64.dll
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\lotali_img.exe.config
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\obj\Debug\lotali_img.exe
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\obj\Debug\lotali_img.pdb
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\libsvm.dll
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\libsvm_x64.dll
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\Accord.dll.config
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\lotali_img.exe
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\lotali_img.pdb
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\LibSVMsharp.dll
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\bin\Debug\LibSVMsharp.pdb
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\obj\Debug\lotali_img.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\obj\Debug\lotali_img.Form1.resources
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\obj\Debug\lotali_img.Properties.Resources.resources
+C:\Users\user2\Desktop\lotali_img_SVM (180805(2)_방식변경)\lotali_img\obj\Debug\lotali_img.csproj.GenerateResource.Cache

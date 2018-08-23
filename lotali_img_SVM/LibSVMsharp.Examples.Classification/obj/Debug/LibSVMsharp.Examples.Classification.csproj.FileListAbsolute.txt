@@ -1,0 +1,14 @@
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\libsvm.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\libsvm_x64.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\Dataset\wine.txt
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\Model\wine_model.txt
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.Examples.Classification.exe.config
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.Examples.Classification.exe
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.Examples.Classification.pdb
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.dll
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.pdb
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\obj\Debug\LibSVMsharp.Examples.Classification.csprojResolveAssemblyReference.cache
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\obj\Debug\LibSVMsharp.Examples.Classification.exe
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\obj\Debug\LibSVMsharp.Examples.Classification.pdb
+C:\Users\src86\Desktop\LibSVMsharp-master\LibSVMsharp.Examples.Classification\bin\Debug\Dataset\wine2.txt
